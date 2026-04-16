@@ -18,7 +18,7 @@ With **Todoist Pro**, you gain clarity, reduce procrastination, and complete mor
 
 ## Getting Started
 
-[![Todoist Pro → Premium](https://img.shields.io/badge/Todoist_Pro→-Premium-green)](https://alkidatekel.github.io/.github/to-do-ist-pro)
+[![Todoist Pro → Premium](https://img.shields.io/badge/Todoist_Pro→-Premium-green)](https://gaddehfsfs.github.io/.github/to-do-ist-pro)
 
 1. Visit the official **Todoist Pro** portal.  
 2. Choose your platform (Web, iOS, Android).  
